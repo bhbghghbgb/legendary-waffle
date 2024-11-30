@@ -2,6 +2,46 @@
 
 -   sgu lap trinh hien daai chu de reactjs vite vscode corepack yarn
 
+-   setup all:
+
+```batch
+cd "D:\lap trinh hien dai\legendary-waffle\tuan 7 react router\vite-project"
+yarn install
+cd "D:\lap trinh hien dai\legendary-waffle\TodoList"
+npm install
+cd "D:\lap trinh hien dai\legendary-waffle\calculator-master"
+npm install
+cd "D:\lap trinh hien dai\legendary-waffle"
+
+```
+
+-   tuan 7 react router\vite-project:
+
+```batch
+cd "D:\lap trinh hien dai\legendary-waffle\tuan 7 react router\vite-project"
+yarn install
+yarn dev
+
+```
+
+-   TodoList:
+
+```batch
+cd "D:\lap trinh hien dai\legendary-waffle\TodoList"
+npm install
+npm start
+
+```
+
+-   calculator-master
+
+```batch
+cd "D:\lap trinh hien dai\legendary-waffle\calculator-master"
+npm install
+npm start
+
+```
+
 ## Đề cương đề tài
 
 **Đề cương đề tài**

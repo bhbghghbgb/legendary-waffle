@@ -1,0 +1,37 @@
+.screen {
+  height: 100px;
+  width: 340px;
+  margin-bottom: 10px;
+  padding: 0 10px;
+  background-color: #4357692d;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  color: white;
+  font-weight: bold;
+  box-sizing: border-box;
+}
+
+/*
+white-space: nowrap;:
+
+This property prevents the text from wrapping to the next line. 
+All the text will be displayed on a single line, even if it overflows the container.
+
+overflow: hidden;:
+
+This property hides any content that overflows the boundaries of the container.
+When combined with white-space: nowrap;, 
+it ensures that any text that doesn't fit within the container's width will be clipped and not visible.
+
+margin: 0;:
+
+This property removes any default margin around the element. Margins are the space outside the element's border, and setting it to 0 ensures there is no extra space around the element. */
+
+
+.responsive-text {
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 0;
+}
